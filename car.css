@@ -1587,33 +1587,36 @@ hr{
    }
   .item-1 {
   margin-top: 10px;
-  line-height: 25px;
-  font-size: 25px;
+  line-height: 20px;
+  font-size: 15px;
   height: max-content;
   }
   .item-2 {
    margin-top: 10px;
-    font-size:20px;
-    max-inline-size: 380px;
+    font-size:15px;
+    
     height: max-content;
     text-align: center;
   }
+  .item-2 p{
+    max-inline-size: 250px;
+  }
   .item-2 img {
-    margin: 10px;
+    margin: 5px;
    
   }
   
   .item-3 img{
     /* border: solid red 2px; */
-  margin-left: 50px;
+  margin-left: 30px;
     margin-top: 50px;
     display: flex;
-    width: 250px;
-    height: 150px;
+    width: 210px;
+    height: 130px;
   }
   #footer-h{
     padding-top: 10px;
-    font-size: 40px;
+    font-size: 30px;
      }
   
   

@@ -1,7 +1,7 @@
 //-------------------------------------nav-bar------------------------------------------>
 var open = document.getElementById("front-ul")
 function menu(){
-    if(open.style.display == "none"){
+    if(open){
         open.style.display = "inline"
        
     }

@@ -282,7 +282,9 @@ li {
   width: 50%;
  } */
 
-
+  #muted {
+    display: none;
+  }
 
 @media screen and (max-width :600px) {
 
@@ -325,7 +327,7 @@ li {
     position: relative;
     margin-left: 60px;
     /* margin-right: 80px; */
-    margin-top: 20px;
+    margin-top: 50px;
     /* border: solid red 2px; */
 
 
@@ -371,7 +373,7 @@ li {
   .video {
     display: flex;
     position: absolute;
-    height: 480px !important;
+    height: 490px !important;
     width: 96%;
 
     /* border: solid red 2px; */
